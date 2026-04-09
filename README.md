@@ -6,6 +6,16 @@ Landing page de uma hamburgueria fictícia com vitrine de produtos, busca em tem
 
 <img width="1896" height="919" alt="image" src="https://github.com/user-attachments/assets/3b4de9d2-80cf-4b4a-bb88-864148bee375" />
 
+---
+![Captura de tela 2026-04-09 135142](https://github.com/user-attachments/assets/dec72ee4-0b32-4480-a7a4-eb4701fa0eaf)
+
+---
+![Captura de tela 2026-04-09 135204](https://github.com/user-attachments/assets/12030f11-0594-4147-b828-6b450809100a)
+
+
+
+
+
 
 ---
 

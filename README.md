@@ -1,22 +1,15 @@
-# B7 • Burguer 🍔
+# B7 • Burguer
 
 Landing page de uma hamburgueria fictícia com vitrine de produtos, busca em tempo real e layout responsivo. Projeto desenvolvido durante a formação Full Stack pela **B7Web**.
 
----
-
-## 🔗 Demo
-
-> [Ver projeto no Netlify](#) *(atualize com o link real)*
-
----
-
 ## 📸 Preview
 
-![Hero da página](assents/heroBurger.png)
+<img width="1896" height="919" alt="image" src="https://github.com/user-attachments/assets/3b4de9d2-80cf-4b4a-bb88-864148bee375" />
+
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Busca em tempo real** — filtra os burguers pelo nome enquanto digita
 - **Filtro por categoria** — Tradicional, Premium ou Vegano
@@ -26,7 +19,7 @@ Landing page de uma hamburgueria fictícia com vitrine de produtos, busca em tem
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 | Tecnologia | Uso |
 |---|---|
@@ -37,7 +30,7 @@ Landing page de uma hamburgueria fictícia com vitrine de produtos, busca em tem
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 b7burguer/
@@ -55,7 +48,7 @@ b7burguer/
 
 ---
 
-## 🚀 Como rodar localmente
+## Como rodar localmente
 
 ```bash
 # Clone o repositório
@@ -77,7 +70,7 @@ git clone https://github.com/seu-usuario/b7burguer.git
 
 ---
 
-## 🧠 O que aprendi
+## O que aprendi
 
 - Manipulação do DOM com `querySelectorAll` e `getAttribute`
 - Filtros combinados (busca por texto + seleção de categoria)
@@ -87,7 +80,7 @@ git clone https://github.com/seu-usuario/b7burguer.git
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Paulo Ricardo**
 Estudante de ADS no IFBA • Formação Full Stack pela B7Web
@@ -96,6 +89,6 @@ Estudante de ADS no IFBA • Formação Full Stack pela B7Web
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto foi desenvolvido para fins educacionais como parte da formação B7Web.
